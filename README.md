@@ -1,4 +1,4 @@
-# COVID Predicition
+# COVID Prediction
 
 In this project, we was able to using data science and machine learning tools to build a efficient model to decide if a patient has COVID-19 or not.
 
