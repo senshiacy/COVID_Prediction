@@ -6,14 +6,14 @@ The NN was building using PyTorch and all documentation is also in repo.
 
 ## How to Executing?
 
-Firstly, in $\texttt{PRE}$ directory you can find $\texttt{EP2\_PRE.ipynb}$ script with data pre-processing, $\texttt{HC\_Janeiro2021.zip}$ dataset and $\texttt{dados\_filtrados.csv}$ file to input into NN.
+Firstly, in PRE directory you can find EP2_PRE.ipynb script with data pre-processing, HC_Janeiro2021.zip dataset and dados_filtrados.csv file to input into NN.
 
 You can easily executing the JN, because all dependencies are already in the directory.
 
-Then, in $\texttt{NN}$ directory, you can find $\texttt{EP2\_NN.ipynb}$ script with NN architecture and $\texttt{dados\_filtrados.csv}$ file to input into that.
+Then, in NN directory, you can find EP2_NN.ipynb script with NN architecture and dados_filtrados.csv file to input into that.
 
 You also can easily executing the JN, because all dependencies are already in the directory.
 
 ## More Information
 
-You can obtain more info through report in $\texttt{REL}$ directory.
+You can obtain more info through report in REL directory.
